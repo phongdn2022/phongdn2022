@@ -1,0 +1,12 @@
+input,button{
+    margin: 5px auto;
+    width: 200px;
+    
+}
+
+b{
+    color:green;
+}
+p,h1{
+    color:white
+}
